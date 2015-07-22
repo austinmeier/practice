@@ -1,2 +1,3 @@
+WARNING:  j/k, this is not a warning, just a line in a text file
 add some more stuff and try it again.  
 Adding stuff without usig the 'git add' command
