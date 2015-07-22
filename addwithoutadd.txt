@@ -1,0 +1,1 @@
+Adding stuff without usig the 'git add' command
