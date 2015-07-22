@@ -31,6 +31,16 @@ $git add -A
 
 #these will preload every file in the folder
 #this preloads the files to be committed
+
+#now you need to commit these changes.  
+
+$git commit
+
+#can use $-m "put changes here instead of using vi"
+#the standard commit command opens vi for you to add the notes
+#everything should be ready to sync with the mothership now, using git status shows what is going on.
+
+
 #to sync to the mothership type:
 
 $git push
@@ -57,10 +67,7 @@ $git push
     'current' instead of 'simple' if you sometimes use older versions of Git)
     
 #after all that, it will ask you for your git username, and password.  Enter them.
-###CHANGES##
 
-
-###changes part 2
 
 
 
